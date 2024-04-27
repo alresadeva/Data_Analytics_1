@@ -192,7 +192,7 @@ Sorting data in pandas allows you to rearrange the rows of a DataFrame or Series
 
 ## Rename
 Renaming columns in pandas allows you to change the names of one or more columns in a DataFrame to make them more descriptive or suitable for analysis. The `rename` method is commonly used for this purpose.
-<div align="center"><img src="(https://github.com/alresadeva/Data_Visualization_1/assets/166176480/d5d4328d-c817-43f0-a7d4-6a263ad57400" /></div> 
+<div align="center"><img src="https://github.com/alresadeva/Data_Visualization_1/assets/166176480/d5d4328d-c817-43f0-a7d4-6a263ad57400" /></div> 
 
 ## Concat
 Concatenating DataFrames in pandas involves combining multiple DataFrames along rows or columns. The `concat` function is used for this purpose.
